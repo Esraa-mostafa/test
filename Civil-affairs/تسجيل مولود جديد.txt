@@ -1,0 +1,11 @@
+Name:
+Type: male or female
+Religion:                    Nationality:                
+Residence:
+Time:
+Date of birth:
+Father:                      Mother:
+Father's job:                Mother's job:
+Hospital:
+Doctor:
+

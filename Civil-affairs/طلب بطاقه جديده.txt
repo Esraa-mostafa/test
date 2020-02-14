@@ -1,0 +1,13 @@
+Name:
+Religion:                    Nationality:                
+Residence:
+Type: male or female
+Date of birth:
+Age:
+Qualification:
+National ID:
+Social status:
+Father:                      Mother:
+Father's job:                Mother's job:
+
+
